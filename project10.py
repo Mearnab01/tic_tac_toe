@@ -1,4 +1,3 @@
-# This is project 10.
 # Tic-Tac-Toe game
 
 
